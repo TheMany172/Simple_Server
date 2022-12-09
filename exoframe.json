@@ -1,0 +1,5 @@
+{
+  "name": "simple_serverCICD",
+  "domain": "adamlittle-simple-ci.xf.mkrs.link",
+  "port": "5000"
+}
